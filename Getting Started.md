@@ -1,4 +1,4 @@
-Getting Started
+# Getting Started
 
 To use the Emotiv Epoc and training Applications you have to first make an account with Emotiv.
 
