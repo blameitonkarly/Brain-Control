@@ -86,10 +86,14 @@ There is a sensor behind the band, not shown in the Emotiv pictures. I often for
  
  
 At minimum, try to only have one sensor yellow and the rest green. 
+* Depending on the day, I’ll have trouble with one particular sensors.
+	* Don’t sweat it. 
 
-Depending on the day, I’ll have trouble with one particular sensors.
 
-Don’t sweat it. 
+Once the Headset is connected you can start brain Training on the Emotiv Applications
+
+Have Fun. 
+
   
 
 
