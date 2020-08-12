@@ -13,6 +13,16 @@
 
   Emotiv suggest storing them separate from the Pads. 
 
+## Charging
+Headset takes about 4 hour to charge.
+
+It is recommended if unused for several months to let charge for 24 hours. 
+
+**DO NOT** charge Headset while wearing. 
+ * This cause grounding issues
+ * The headset will not connect with Bluetooth if charging
+
+
 ## Set Up
 Heavily soak the Felt Pads in Saline Solution
 * Suggested to do this inside the storage case
