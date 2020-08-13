@@ -17,7 +17,7 @@ Headset
   * Adjusting Sensors
 
 Manuals
-  * Links to Emotiv Menuals
+  * Links to Emotiv Manuals
   * Links to Coding Background
 
 ## Interface
