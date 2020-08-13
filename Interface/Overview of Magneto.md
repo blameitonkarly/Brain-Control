@@ -3,13 +3,14 @@
 Open Program
   * Splash Screen
     * Request Access to Server
-        * Log into Emotiv Account 
+        * Login to Emotiv Account 
             * http://localhost:6868
             * Connect to Websocket
     * Request Access to App
       * Verify 
-          * Client ID
-          * Client Secret
+          * License: "8a3dbb42-47e9-470b-92b8-2a8ddd336291" (BCI API license key manually)
+          * Client ID: 
+          * Client Secret: 
       * Third Party Acceptance 
   * Constantly looking for connect to headset
   * Constantly telling if connect or not
@@ -19,8 +20,9 @@ Open Program
       * Connect Headset
       * Get Cortex Token
       * Create New Session
-          * If Headset get disconnected or lose all data
-              * Restart log in process
+          * If Headset get disconnected
+              * Lock out User from Software
+              * Restart login process
       * Connect to EmotivBCI Training Profile
       
 Main Screen
