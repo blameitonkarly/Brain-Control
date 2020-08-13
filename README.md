@@ -20,3 +20,11 @@ Manuals
   * Links to Emotiv Menuals
   * Links to Coding Background
 
+## Interface
+
+Overview
+ * Intended layout of Brain Control Login
+ 
+## Images
+ 
+Taken from the Internet and the Emotiv Website. Used to display instructions.
