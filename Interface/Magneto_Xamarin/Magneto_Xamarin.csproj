@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\about.png" />
+    <None Remove="icons\contact.png" />
+    <None Remove="icons\headset.png" />
+    <None Remove="icons\home.png" />
+    <None Remove="icons\settings.png" />
+    <None Remove="icons\Sofwerx_logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.7.0.968" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="AboutPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="contactPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="menuPage.xaml">
+       </EmbeddedResource>
+    <EmbeddedResource Update="Page1.xaml">
+    </EmbeddedResource>
+    <EmbeddedResource Update="SettingsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="icons\about.png" />
+    <EmbeddedResource Include="icons\contact.png" />
+    <EmbeddedResource Include="icons\headset.png" />
+    <EmbeddedResource Include="icons\home.png" />
+    <EmbeddedResource Include="icons\menu.png" />
+    <EmbeddedResource Include="icons\settings.png" />
+    <EmbeddedResource Include="icons\Sofwerx_logo.png" />
+  </ItemGroup>
+</Project>

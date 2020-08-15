@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Magneto_Xamarin"
+             x:Class="Magneto_Xamarin.menuPage">
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="1" Padding="50,30" BackgroundColor="#FFCE83">
+            <StackLayout Spacing="20"
+                         Orientation="Horizontal">
+                <Image Source="{local:ImageResource Magneto_Xamarin.icons.home.png}"
+                       HeightRequest="18"/>
+                <Button Text="Home"
+                        HorizontalOptions="Start"
+                        BorderColor="Transparent"
+                        BackgroundColor="Transparent"
+                        Clicked="Main_onClicked"/>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout Grid.Row="2" Padding="50,30" BackgroundColor="#FFC47A">
+            <StackLayout Spacing="20"
+                         Orientation="Horizontal">
+              <Image Source="{local:ImageResource Magneto_Xamarin.icons.headset.png}"
+                     HeightRequest="18"/>
+              <Button Text="Connect Headset"
+                      HorizontalOptions="Start"
+                      BorderColor="Transparent"
+                      BackgroundColor="Transparent"
+                      Clicked="Page1_onClicked"/>
+            </StackLayout>
+          </StackLayout>
+        <StackLayout Grid.Row="3" Padding="50,30" BackgroundColor="#FFB971">
+              <StackLayout Spacing="20"
+                           Orientation="Horizontal">
+                <Image Source="{local:ImageResource Magneto_Xamarin.icons.about.png}"
+                       HeightRequest="18"/>
+                <Button Text="About"
+                        HorizontalOptions="Start"
+                        BorderColor="Transparent"
+                        BackgroundColor="Transparent"
+                        Clicked="About_onClicked"/>
+              </StackLayout>
+            </StackLayout>
+        <StackLayout Grid.Row="4" Padding="50,30" BackgroundColor="#FFA850">
+              <StackLayout Spacing="20"
+                           Orientation="Horizontal">
+                <Image Source="{local:ImageResource Magneto_Xamarin.icons.settings.png}"
+                       HeightRequest="18"/>
+                <Button Text="Setting"
+                        HorizontalOptions="Start"
+                        BorderColor="Transparent"
+                        BackgroundColor="Transparent"
+                        Clicked="Setting_onClicked"/>
+              </StackLayout>
+            </StackLayout>
+        <StackLayout Grid.Row="5" Padding="50,30" BackgroundColor="#FF9325">
+              <StackLayout Spacing="20"
+                           Orientation="Horizontal">
+                <Image Source="{local:ImageResource Magneto_Xamarin.icons.contact.png}"
+                       HeightRequest="18"/>
+                <Button Text="Contact"
+                        HorizontalOptions="Start"
+                        BorderColor="Transparent"
+                        BackgroundColor="Transparent"
+                        Clicked="Contact_onClicked"/>
+              </StackLayout>
+            </StackLayout>
+        <StackLayout Grid.Row="6" Padding="50,30" BackgroundColor="#FFFFFF">
+            
+        </StackLayout>
+        </Grid>
+</ContentPage>

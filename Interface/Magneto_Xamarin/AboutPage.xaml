@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Magneto_Xamarin"
+             x:Class="Magneto_Xamarin.AboutPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="1" Padding="50,30">
+            <StackLayout Spacing="20"
+                         Orientation="Horizontal">
+                <Image Source="{local:ImageResource Magneto_Xamarin.icons.menu.png}"
+                           HeightRequest="18"/>
+                <Button Text="Menu"
+                            HorizontalOptions="Start"
+                            BorderColor="Transparent"
+                            BackgroundColor="Transparent"
+                            Clicked="menu_onClicked"/>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout Grid.Row="2" Padding="50,30">
+            <Label Text="Created: Nicole Carpenter" />
+            <Label Text="Created: June 2020" />
+            <Label Text="Contact Email: ncarpenter1626@gmail.com" />
+            <Label Text="Please reach out if you have any questions"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\bin\Debug\netstandard2.0\Magneto_Xamarin.deps.json
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\bin\Debug\netstandard2.0\Magneto_Xamarin.dll
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\bin\Debug\netstandard2.0\Magneto_Xamarin.pdb
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.csprojAssemblyReference.cache
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.AssemblyInfoInputs.cache
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.AssemblyInfo.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.dll
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\Magneto_Xamarin.pdb
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\menuPage.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\contactPage.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\carpe\Documents\Flash Drive\SOFWERX\Brain Control\Magneto_Xamarin\Magneto_Xamarin\Magneto_Xamarin\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
